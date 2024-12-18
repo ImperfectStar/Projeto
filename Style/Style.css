@@ -1,5 +1,5 @@
 body{
-    background:black url(../Imagens/light-up-this-cloud-wallpaperwaifu-com\ -\ frame\ at\ 0m0s.jpg) center center no-repeat;
+    background:black url(../Imagens/light-up-this-cloud-wallpaperwaifu-com\ -\ frame\ at\ 0m0s.jpg) center center no-repeat fixed;
     background-size: cover;
     text-align: center;
 }
@@ -34,7 +34,6 @@ main iframe.leitor-de-pdf{
     min-width: 300px;
     max-width: 600px;
     height: 500px;
-    margin: 40px 50px;
     
 }
 main div.imagem1{
