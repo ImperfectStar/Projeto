@@ -1,0 +1,62 @@
+body{
+    background:black url(../Imagens/light-up-this-cloud-wallpaperwaifu-com\ -\ frame\ at\ 0m0s.jpg) center center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+}
+header{
+    margin-bottom: 30px;
+}
+header img{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+header nav a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: gray;
+}
+header nav a:hover{
+    color: aqua;
+    background-color: rgb(179, 178, 178);
+    transition-duration: .5s;
+
+}
+main{
+    background-color: darkgrey;
+    border: 1px solid black;
+    border-radius: 10px;
+    min-width: 300px;
+    max-width: 600px;
+    margin: auto;
+    text-decoration: none;
+}
+main iframe.leitor-de-pdf{
+    min-width: 300px;
+    max-width: 600px;
+    height: 500px;
+    margin: 40px 50px;
+    
+}
+main div.imagem1{
+    background-image: url(../Imagens/magias.jpg);
+    background-size: cover;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+footer{
+    color: whitesmoke;
+    text-decoration: none;
+}
+footer a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+footer a:hover{
+    color: blue;
+    transition-duration: .5s;
+}
