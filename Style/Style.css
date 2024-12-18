@@ -1,7 +1,6 @@
 body{
-    background:black url(../Imagens/light-up-this-cloud-wallpaperwaifu-com\ -\ frame\ at\ 0m0s.jpg) center no-repeat;
+    background:black url(../Imagens/light-up-this-cloud-wallpaperwaifu-com\ -\ frame\ at\ 0m0s.jpg) no-repeat fixed center;
     background-size: cover;
-    background-attachment: fixed;
     text-align: center;
 }
 header{
