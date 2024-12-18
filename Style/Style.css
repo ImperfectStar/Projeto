@@ -16,22 +16,18 @@ header nav a{
     color: whitesmoke;
     border: 1px solid black;
     padding: 5px;
-    border-radius: 10px;
-    background-color: gray;
+   
 }
 header nav a:hover{
     color: aqua;
-    background-color: rgb(179, 178, 178);
     transition-duration: .5s;
 
 }
 main{
-    background-color: darkgrey;
-    border: 1px solid black;
-    border-radius: 10px;
+    color:whitesmoke;
     min-width: 300px;
     max-width: 600px;
-    margin: auto;
+    margin: 80px auto;
     text-decoration: none;
 }
 main iframe.leitor-de-pdf{
@@ -44,7 +40,7 @@ main iframe.leitor-de-pdf{
 main div.imagem1{
     background-image: url(../Imagens/magias.jpg);
     background-size: cover;
-    margin: auto;
+    margin: 50px auto;
     width: 200px;
     height: 200px;
 }
